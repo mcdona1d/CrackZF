@@ -16,5 +16,5 @@ python pwtest.py 学号
 
 例如
 
-python pwtest 12111001
+python pwtest.py 12111001
 
